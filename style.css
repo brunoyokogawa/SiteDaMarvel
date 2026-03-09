@@ -1,0 +1,15 @@
+h1, h3 {
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: black;
+}
+img {
+    max-width: 350px;
+}
+div{
+width:90%;
+margin:auto;
+margin-bottom:40px;
+}
